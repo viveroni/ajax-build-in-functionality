@@ -72,6 +72,18 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/arel-7.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/builder-3.2.2/lib" />
@@ -146,6 +158,24 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.2.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/app" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/bin" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/config" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/guides" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/app" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/bin" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/config" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/guides" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-4.2.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.0.0, ruby-2.3.1-p112) [gem]">
@@ -424,6 +454,16 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8-x64-mingw32/suppressions" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="pkg-config (v1.1.7, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pkg-config-1.1.7/lib" />
@@ -534,6 +574,14 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-11.2.2/bin" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-11.2.2/exe" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v2.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/responders-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/responders-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.22, ruby-2.3.1-p112) [gem]">
@@ -678,6 +726,14 @@
       <SOURCES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/uglifier-3.0.2/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/uglifier-3.0.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/warden-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/warden-1.2.6/lib" />
       </SOURCES>
     </library>
     <library name="web-console (v3.3.1, ruby-2.3.1-p112) [gem]">
